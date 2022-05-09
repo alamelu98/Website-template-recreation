@@ -78,7 +78,7 @@
     grid-row-start: 1;
     grid-row-end: 3;
     height:400px;
-background-image: url("inside-weather-Uxqlfigh6oE-unsplash.jpg"); 
+/* background-image: url("inside-weather-Uxqlfigh6oE-unsplash.jpg");  */
 background-position: center;
 background-size: cover;
 border:1px solid black;
@@ -87,7 +87,7 @@ border:1px solid black;
 {
     
     height:200px;
-    background-image: url("spacejoy-h2_3dL9yLpU-unsplash.jpg"); 
+/*     background-image: url("spacejoy-h2_3dL9yLpU-unsplash.jpg");  */
     background-position: center;
     background-size: cover;border:1px solid black;
 
@@ -95,14 +95,14 @@ border:1px solid black;
 }
 .gi1:nth-child(3){
     height:200px;
-   background-image: url("spacejoy-IH7wPsjwomc-unsplash.jpg"); 
+/*    background-image: url("spacejoy-IH7wPsjwomc-unsplash.jpg");  */
     background-position: center;
     background-size: cover;border:1px solid black;
 
 }
 .gi1:nth-child(4){
     height:200px;
-  background-image: url("spacejoy-YI2YkyaREHk-unsplash.jpg"); 
+/*   background-image: url("spacejoy-YI2YkyaREHk-unsplash.jpg");  */
     background-position: center;
     background-size: cover;border:1px solid black;
 
@@ -114,21 +114,21 @@ border:1px solid black;
     grid-row-start: 2;
     grid-row-end:4;
     height:400px;
-background-image: url("hutomo-abrianto-X5BWooeO4Cw-unsplash.jpg");
+/* background-image: url("hutomo-abrianto-X5BWooeO4Cw-unsplash.jpg"); */
 background-position: center;
 background-size: cover;border:1px solid black;
 
 }
 .gi1:nth-child(6){
     height:200px;
-    background-image: url("kam-idris-hYb7kbu4x7E-unsplash.jpg"); 
+/*     background-image: url("kam-idris-hYb7kbu4x7E-unsplash.jpg");  */
     background-position: center;
     background-size: cover;border:1px solid black;
 
 }
 .gi1:nth-child(7){
     height:200px;
-   background-image: url("denys-striyeshyn-wJ7yGwz2-00-unsplash.jpg"); 
+/*    background-image: url("denys-striyeshyn-wJ7yGwz2-00-unsplash.jpg");  */
     background-position: center;
     background-size: cover;border:1px solid black;
 
